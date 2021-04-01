@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{12E17DCF-1558-4675-9AD0-1C5A83D684F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCart/Views/Home/Privacy.cshtml">
+    <Files>
+      <File FileName="ShoppingCart/Views/Home/Index.cshtml" Line="5" Column="19" />
+      <File FileName="ShoppingCart/Views/Shared/_Layout.cshtml" Line="34" Column="13" />
+      <File FileName="ShoppingCart/Views/Home/Privacy.cshtml" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingCart" expanded="True">
+            <Node name="ShoppingCart" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Privacy.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
